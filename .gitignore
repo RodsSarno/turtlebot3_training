@@ -1,8 +1,8 @@
-# ROS 2 build and generated workspace files
-/build/
-/devel/
-/install/
-/log/
+# ROS 2 build and generated workspace files, at any level
+**/build/
+**/devel/
+**/install/
+**/log/
 
 # Python generated files
 **/__pycache__/
