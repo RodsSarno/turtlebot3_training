@@ -60,7 +60,3 @@ Official resources:
 - [TurtleBot3 messages](https://github.com/ROBOTIS-GIT/turtlebot3_msgs)
 - [DynamixelSDK by ROBOTIS](https://github.com/ROBOTIS-GIT/DynamixelSDK)
 - [TurtleBot3 e-Manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
-
-## AI Disclosure
-
-This README was created with the assistance of artificial intelligence (AI).
