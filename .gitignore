@@ -1,0 +1,14 @@
+# ROS 2 build and generated workspace files
+/build/
+/devel/
+/install/
+/log/
+
+# Python generated files
+**/__pycache__/
+*.py[cod]
+
+# Local editor and OS files
+.vscode/
+*.swp
+.DS_Store
